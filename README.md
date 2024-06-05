@@ -14,7 +14,7 @@ A Tic Tac Toe game implemented using HTML, CSS, and JavaScript.
 - Responsive design
 
 ## Usage
-Visit the Tic Tac Toe game: [Prodigy Tic Tac Toe](https://umang-exe.github.io/PRODIGY_WD_03/)
+Play the Tic Tac Toe game: [Prodigy Tic Tac Toe](https://umang-exe.github.io/PRODIGY_WD_03/)
 
 ## Contact
 For queries, contact Umang at umangjoshi144@gmail.com.
